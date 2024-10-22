@@ -1,0 +1,31 @@
+.red, .green, .blue {
+
+    width: 200px;
+    height: 200px;
+    padding: 2rem;
+    font-size: 3rem;
+    color: #fff;
+}
+
+.red { 
+    background-color: #ff0000;
+}
+
+.green {
+    background-color: #00ff00;
+    position: absolute;
+    top: 0px;
+
+
+}
+
+.blue {
+    background-color: #5d00ff;
+    position: relative;
+
+}
+
+section {
+    background-color: gray;
+    padding: 2rem
+}
